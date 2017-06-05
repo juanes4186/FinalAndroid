@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalAndroid</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="Municipio">Municipio:</string>
+    <string name="Departamento">Departamento:</string>
+    <string name="Dirección">Dirección:</string>
+    <string name="ACERCA_DE">ACERCA DE</string>
+    <string name="creado_por">Creado Por:</string>
+    <string name="Todos_los_Derechos">Todos los Derechos</string>
+    <string name="reservados">Reservados</string>
+    <string name="acerca_de">Acerca De</string>
+</resources>

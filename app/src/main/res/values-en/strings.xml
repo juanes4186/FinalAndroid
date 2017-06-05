@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalAndroid</string>
+    <string name="Nombre">Name:</string>
+    <string name="Municipio">Municipality:</string>
+    <string name="Departamento">Department:</string>
+    <string name="Dirección">Address:</string>
+    <string name="ACERCA_DE">ABOUT</string>
+    <string name="creado_por">Created By:</string>
+    <string name="Todos_los_Derechos">All Rights</string>
+    <string name="reservados">Reserved</string>
+    <string name="acerca_de">About</string>
+</resources>
